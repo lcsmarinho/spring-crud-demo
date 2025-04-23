@@ -33,7 +33,7 @@ Este projeto foi criado para demonstrar um CRUD completo de produtos, com boas p
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/spring-crud-demo.git
+git clone https://github.com/lcsmarinho/spring-crud-demo.git
 cd spring-crud-demo
 ```
 
